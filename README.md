@@ -9,9 +9,9 @@ I am a Software Developer who is working for [Tata Consultancy Services](https:/
 
 ### Volunteer Activities
 
-1.   Facilitator – `Google Explore ML Program`,   Jan 2021 – 2020
-2.  Innovator – `Intel Software Innovator Program`,   Jan 2021 - Present
-3.   Member – `Technical Club of FIEM`,  July 2017 - 2018
+1.   Facilitator – `Google Explore ML Program`,   Jan 2021 – 2020.
+2.  Innovator – `Intel Software Innovator Program`,   Jan 2021 - Present.
+3.   Member – `Technical Club of FIEM`,  July 2017 - 2018.
 
 ### Technical Publications / Blogs
 
@@ -20,5 +20,5 @@ I am a Software Developer who is working for [Tata Consultancy Services](https:/
 2. Malaria Detection from blood sample images using Intel® Distribution of OpenVINO™ Toolkit. [[Link]](https://medium.com/intel-software-innovators/malaria-detection-from-blood-sample-images-using-intel-distribution-of-openvino-toolkit-941bc3978bf9).
 
 ### Contact
-
+Connect me in [LinkedIn](http://www.linkedin.com/in/sarkarpranab66/).
 Want to discuss something exciting, please drop an e-mail: [sarkarpranab66@gmail.com](mailto:sarkarpranab66@gmail.com).
