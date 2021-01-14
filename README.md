@@ -4,7 +4,7 @@ I am a Software Developer who is working for [Tata Consultancy Services](https:/
 
 ### Education
 
-[Future Institute of Engineering and Management](https://futureengineering.in/), Kolkata, India - Bachelors of Technology in Information Technology.
+[Future Institute of Engineering and Management](https://futureengineering.in/), Kolkata, India - Bachelors of Technology in Information Technology - July 2015 - July 2019.
 
 
 ### Volunteer Activities
