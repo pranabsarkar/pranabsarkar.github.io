@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Hello :wave:
 
-You can use the [editor on GitHub](https://github.com/pranabsarkar/pranabsarkar.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Software Developer who is working for `Tata Consultancy Services`, India. Currently, trying to create models for social good. Being a tech enthusiast, [photography](https://www.instagram.com/my.fotocraft.in/), and traveling keep my neurons activated.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+`Future Institute of Engineering and Management`, Kolkata, India - Bachelors of Technology in Information Technology.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Volunteer Activities
 
-# Header 1
-## Header 2
-### Header 3
+1.   Facilitator – `Google Explore ML Program`,   Jan 2021 – 2020
+2.  Innovator – `Intel Software Innovator Program`,   Jan 2021 - Present
+3.   Member – `Technical Club of FIEM`,  July 2017 - 2018
 
-- Bulleted
-- List
+### Technical Publications / Blogs
 
-1. Numbered
-2. List
+1. Diabetic Retinopathy Detection using Intel® Distribution of OpenVINO™ Toolkit. [[Link]](https://devmesh.intel.com/projects/diabetic-retinopathy-detection-using-using-intel-distribution-of-openvino-toolkit) [[Video]](https://youtu.be/agutzaFXGZA).
 
-**Bold** and _Italic_ and `Code` text
+2. Malaria Detection from blood sample images using Intel® Distribution of OpenVINO™ Toolkit. [[Link]](https://medium.com/intel-software-innovators/malaria-detection-from-blood-sample-images-using-intel-distribution-of-openvino-toolkit-941bc3978bf9).
 
-[Link](url) and ![Image](src)
-```
+### Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pranabsarkar/pranabsarkar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to discuss something exciting, please drop an :e-mail: `sarkarpranab66@gmail.com`.
