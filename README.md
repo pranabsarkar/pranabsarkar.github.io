@@ -20,6 +20,6 @@ I am a Software Developer who is working for [Tata Consultancy Services](https:/
 2. Malaria Detection from blood sample images using Intel® Distribution of OpenVINO™ Toolkit. [[Link]](https://medium.com/intel-software-innovators/malaria-detection-from-blood-sample-images-using-intel-distribution-of-openvino-toolkit-941bc3978bf9).
 
 ### Contact
-<br>Connect in [LinkedIn](http://www.linkedin.com/in/sarkarpranab66/).<br/>
+Connect in [LinkedIn](http://www.linkedin.com/in/sarkarpranab66/).<br/>
 
 Want to discuss something exciting, please drop an e-mail: [sarkarpranab66@gmail.com](mailto:sarkarpranab66@gmail.com).
