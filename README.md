@@ -1,4 +1,4 @@
-# Hello :wave:
+# Hello!
 
 I am a Software Developer who is working for `Tata Consultancy Services`, India. Currently, trying to create models for social good. Being a tech enthusiast, [photography](https://www.instagram.com/my.fotocraft.in/), and traveling keep my neurons activated.
 
@@ -21,4 +21,4 @@ I am a Software Developer who is working for `Tata Consultancy Services`, India.
 
 ### Contact
 
-Want to discuss something exciting, please drop an :e-mail: `sarkarpranab66@gmail.com`.
+Want to discuss something exciting, please drop an e-mail: `sarkarpranab66@gmail.com`.
