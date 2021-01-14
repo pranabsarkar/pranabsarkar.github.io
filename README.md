@@ -11,7 +11,7 @@ I am a Software Developer who is working for [Tata Consultancy Services](https:/
 
 1.   Facilitator – `Google Explore ML Program`,   Jan 2021 – 2020.
 2.  Innovator – `Intel Software Innovator Program`,   Jan 2021 - Present.
-3.   Member – `Technical Club of FIEM`,  July 2017 - 2018.
+3.   Member – `Technical Club, FIEM`,  July 2017 - 2018.
 
 ### Technical Publications / Blogs
 
