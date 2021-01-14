@@ -1,10 +1,10 @@
 # Hello!
 
-I am a Software Developer who is working for `Tata Consultancy Services`, India. Currently, trying to create models for social good. Being a tech enthusiast, [photography](https://www.instagram.com/my.fotocraft.in/), and traveling keep my neurons activated.
+I am a Software Developer who is working for [Tata Consultancy Services](https://www.tcs.com/), India. Currently, trying to create models for social good. Being a tech enthusiast, [photography](https://www.instagram.com/my.fotocraft.in/), and traveling keep my neurons activated.
 
 ### Education
 
-`Future Institute of Engineering and Management`, Kolkata, India - Bachelors of Technology in Information Technology.
+[Future Institute of Engineering and Management](https://futureengineering.in/), Kolkata, India - Bachelors of Technology in Information Technology.
 
 
 ### Volunteer Activities
@@ -21,4 +21,4 @@ I am a Software Developer who is working for `Tata Consultancy Services`, India.
 
 ### Contact
 
-Want to discuss something exciting, please drop an e-mail: `sarkarpranab66@gmail.com`.
+Want to discuss something exciting, please drop an e-mail: `sarkarpranab66@gmail.com`
