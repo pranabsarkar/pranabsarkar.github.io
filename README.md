@@ -9,9 +9,9 @@ I am a Software Developer who is working for [Tata Consultancy Services](https:/
 
 ### Volunteer Activities
 
-1.   Facilitator – `Google Explore ML Program`.
+1.  Facilitator – `Google Explore ML Program`.
 2.  Innovator – `Intel Software Innovator Program`.
-3.   Member – `Technical Club, FIEM`.
+3.  Member – `Technical Club, FIEM`.
 
 ### Technical Publications / Blogs
 
