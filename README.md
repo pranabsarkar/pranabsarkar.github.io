@@ -1,6 +1,6 @@
 # Hello!
 
-I am a Software Developer who is working for [Tata Consultancy Services](https://www.tcs.com/), India. Currently, trying to create models for social good. Being a tech enthusiast, [photography](https://www.instagram.com/my.fotocraft.in/), and traveling keep my neurons activated.
+I am a Software Developer who is working for [Tata Consultancy Services](https://www.tcs.com/), India. Currently, working in the AWS Serverless Stack from last one year. Being a tech enthusiast, [photography](https://www.instagram.com/my.fotocraft.in/), and traveling keep my neurons activated.
 
 ### My Toolbox
 
@@ -19,9 +19,11 @@ I am a Software Developer who is working for [Tata Consultancy Services](https:/
 
 ### Technical Publications / Blogs
 
-1. Diabetic Retinopathy Detection using Intel® Distribution of OpenVINO™ Toolkit. [[Link]](https://devmesh.intel.com/projects/diabetic-retinopathy-detection-using-using-intel-distribution-of-openvino-toolkit) [[Video]](https://youtu.be/agutzaFXGZA).
+1. Implementing Redis Cache within AWS Lambda Function for better response latency: Part 1 — Overview. [[Link]](https://medium.com/@sarkarpranab66/implementing-redis-cache-within-aws-lambda-function-for-better-response-latency-part-1-overview-19da1e5369ef#1b81-f94bea934bd).
 
-2. Malaria Detection from blood sample images using Intel® Distribution of OpenVINO™ Toolkit. [[Link]](https://medium.com/intel-software-innovators/malaria-detection-from-blood-sample-images-using-intel-distribution-of-openvino-toolkit-941bc3978bf9).
+2. Diabetic Retinopathy Detection using Intel® Distribution of OpenVINO™ Toolkit. [[Link]](https://devmesh.intel.com/projects/diabetic-retinopathy-detection-using-using-intel-distribution-of-openvino-toolkit) [[Video]](https://youtu.be/agutzaFXGZA).
+
+3. Malaria Detection from blood sample images using Intel® Distribution of OpenVINO™ Toolkit. [[Link]](https://medium.com/intel-software-innovators/malaria-detection-from-blood-sample-images-using-intel-distribution-of-openvino-toolkit-941bc3978bf9).
 
 ### Contact
 Connect in [LinkedIn](http://www.linkedin.com/in/sarkarpranab66/).<br/>
