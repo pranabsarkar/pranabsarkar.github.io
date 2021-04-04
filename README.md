@@ -2,6 +2,10 @@
 
 I am a Software Developer who is working for [Tata Consultancy Services](https://www.tcs.com/), India. Currently, trying to create models for social good. Being a tech enthusiast, [photography](https://www.instagram.com/my.fotocraft.in/), and traveling keep my neurons activated.
 
+### My Toolbox
+
+![My-Toolbox](/img/my_profile.png)
+
 ### Education
 
 [Future Institute of Engineering and Management](https://futureengineering.in/), Kolkata, India - Bachelors of Technology in Information Technology, July 2015 - July 2019.
