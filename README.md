@@ -27,5 +27,3 @@ I am a Software Developer who is working for [Tata Consultancy Services](https:/
 
 ### Contact
 Connect in [LinkedIn](http://www.linkedin.com/in/sarkarpranab66/).<br/>
-
-Want to discuss something exciting, please drop an e-mail: [sarkarpranab66@gmail.com](mailto:sarkarpranab66@gmail.com).
