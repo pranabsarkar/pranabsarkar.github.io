@@ -4,10 +4,6 @@ I am a Software Developer who is working for [Tata Consultancy Services](https:/
 
 [Leetcode Profile](https://leetcode.com/user5432z/) - I am trying to sharpen my problem solving skills.
 
-<!-- ### My Toolbox
-
-![My-Toolbox](/img/my_profile.png)
- -->
 ### Education
 
 [West Bengal University Of Technology](https://makautwb.ac.in/), Kolkata, India - Bachelors of Technology in Information Technology, July 2015 - July 2019.
