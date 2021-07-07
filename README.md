@@ -2,6 +2,7 @@
 
 I am a Software Developer who is working for [Tata Consultancy Services](https://www.tcs.com/), India. Currently, working in the AWS Serverless Stack from the last one year. Being a tech enthusiast, [photography](https://www.instagram.com/my.fotocraft.in/), and traveling keep my neurons activated.
 
+[Leetcode Profile](https://leetcode.com/user5432z/)
 <!-- ### My Toolbox
 
 ![My-Toolbox](/img/my_profile.png)
@@ -9,7 +10,6 @@ I am a Software Developer who is working for [Tata Consultancy Services](https:/
 ### Education
 
 [West Bengal University Of Technology](https://makautwb.ac.in/), Kolkata, India - Bachelors of Technology in Information Technology, July 2015 - July 2019.
-
 
 ### Volunteer Activities
 
