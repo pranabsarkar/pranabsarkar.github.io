@@ -1,6 +1,6 @@
 # Hello!
 
-I am a Software Developer who is working for [Tata Consultancy Services](https://www.tcs.com/). 
+I am a Software Developer who is working for [Cisco](https://www.cisco.com/). 
 
 [Leetcode Profile](https://leetcode.com/user5432z/) - I am trying to sharpen my problem solving skills.
 
